@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 0;
+    margin-bottom: 100px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.bg-orange {
+    background-color: #fceae8;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.btn-background {
+    background-color: #FF136F;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+}
+
+.cat1 {
+    background-color: #ffc107;
+}
+
+.cat2 {
+    background-color: #198754;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.panda-btn:hover {
+    color: inherit;
+}
+
+.panda-bg-info {
+    background-color: #fceae8;
+    margin-bottom: 70px;
+}
